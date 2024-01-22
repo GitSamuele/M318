@@ -1,0 +1,8 @@
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\bin\Debug\Ereditarietà.exe.config
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\bin\Debug\Ereditarietà.exe
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\bin\Debug\Ereditarietà.pdb
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.csproj.AssemblyReference.cache
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.csproj.SuggestedBindingRedirects.cache
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.csproj.CoreCompileInputs.cache
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.exe
+D:\Scuola\SECONDA\M318\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.pdb
