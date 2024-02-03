@@ -1,0 +1,2 @@
+D:\Scuola\SECONDA\GitHub\M318\4.4 StereoMultifunzione\4.4 StereoMultifunzione\obj\Debug\4.4 StereoMultifunzione.csproj.AssemblyReference.cache
+D:\Scuola\SECONDA\GitHub\M318\4.4 StereoMultifunzione\4.4 StereoMultifunzione\obj\Debug\4.4 StereoMultifunzione.csproj.CoreCompileInputs.cache
