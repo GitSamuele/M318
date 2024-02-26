@@ -1,0 +1,10 @@
+1-Creare repository git hub
+2-Creazione percorso su SSD
+3-La prima volta clonare il contenuto sull'SSD
+	-Git CLONE
+4-Aggiornamento repository (sul percorso del progetto):
+	-Git add *
+	-Git commit -m "messaggio"
+	-Git push
+5-Importazione:
+	-Git pull

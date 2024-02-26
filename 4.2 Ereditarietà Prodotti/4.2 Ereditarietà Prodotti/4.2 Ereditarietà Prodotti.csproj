@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23B6A74F-35BE-4DFF-844B-29CA390C15E9}</ProjectGuid>
+    <ProjectGuid>{44D36323-895D-4B5E-8256-CA2EFFFCB813}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ereditarietà</RootNamespace>
-    <AssemblyName>Ereditarietà</AssemblyName>
+    <RootNamespace>_4._2_Ereditarietà_Prodotti</RootNamespace>
+    <AssemblyName>4.2 Ereditarietà Prodotti</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\cane.cs" />
-    <Compile Include="Models\Mammifero.cs" />
+    <Compile Include="Models\Alimentari.cs" />
+    <Compile Include="Models\NonAlimentari.cs" />
+    <Compile Include="Models\Prodotto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

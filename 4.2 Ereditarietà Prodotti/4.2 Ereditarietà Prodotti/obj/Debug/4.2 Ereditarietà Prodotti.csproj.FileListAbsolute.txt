@@ -1,0 +1,5 @@
+D:\Scuola\SECONDA\M318\4.2 Ereditarietà Prodotti\4.2 Ereditarietà Prodotti\obj\Debug\4.2 Ereditarietà Prodotti.csproj.AssemblyReference.cache
+D:\Scuola\SECONDA\M318\4.2 Ereditarietà Prodotti\4.2 Ereditarietà Prodotti\obj\Debug\4.2 Ereditarietà Prodotti.csproj.SuggestedBindingRedirects.cache
+D:\Scuola\SECONDA\M318\4.2 Ereditarietà Prodotti\4.2 Ereditarietà Prodotti\obj\Debug\4.2 Ereditarietà Prodotti.csproj.CoreCompileInputs.cache
+D:\Scuola\SECONDA\GitHub\M318\4.2 Ereditarietà Prodotti\4.2 Ereditarietà Prodotti\obj\Debug\4.2 Ereditarietà Prodotti.csproj.AssemblyReference.cache
+D:\Scuola\SECONDA\GitHub\M318\4.2 Ereditarietà Prodotti\4.2 Ereditarietà Prodotti\obj\Debug\4.2 Ereditarietà Prodotti.csproj.CoreCompileInputs.cache

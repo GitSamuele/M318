@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Le informazioni generali relative a un assembly sono controllate dal seguente 
 // set di attributi. Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
-[assembly: AssemblyTitle("Ereditarietà")]
+[assembly: AssemblyTitle("Equazione")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("CPTT")]
-[assembly: AssemblyProduct("Ereditarietà")]
-[assembly: AssemblyCopyright("Copyright © CPTT 2023")]
+[assembly: AssemblyProduct("Equazione")]
+[assembly: AssemblyCopyright("Copyright © CPTT 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-[assembly: Guid("23b6a74f-35be-4dff-844b-29ca390c15e9")]
+[assembly: Guid("20951f97-12e5-4ffb-b7e5-0f079052b22d")]
 
 // Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 //

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23B6A74F-35BE-4DFF-844B-29CA390C15E9}</ProjectGuid>
+    <ProjectGuid>{20951F97-12E5-4FFB-B7E5-0F079052B22D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ereditarietà</RootNamespace>
-    <AssemblyName>Ereditarietà</AssemblyName>
+    <RootNamespace>Equazione</RootNamespace>
+    <AssemblyName>Equazione</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\cane.cs" />
-    <Compile Include="Models\Mammifero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

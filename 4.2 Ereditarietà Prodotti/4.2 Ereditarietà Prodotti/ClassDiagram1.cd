@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_4._2_Ereditarietà_Prodotti.Models.Alimentari" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Alimentari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4._2_Ereditarietà_Prodotti.Models.NonAlimentari" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\NonAlimentari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4._2_Ereditarietà_Prodotti.Models.Prodotto" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAQAAAAAEAAAAAAAAAAABAAAAIEAAMAAAAAA=</HashCode>
+      <FileName>Models\Prodotto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
